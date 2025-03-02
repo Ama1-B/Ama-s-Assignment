@@ -1,0 +1,64 @@
+.ama-container{
+    height: 500px;
+    background-image: url("IMG_0126.JPG");
+    text-align: center;
+}
+.Fname{
+    font-size: 50px;
+    position: absolute;
+    left: 500px;
+    top: 200px;
+    color: white;
+    font-family: "Courier New", monospace;
+}
+.status{
+    font-size: 20px;
+    left: 570px;
+    position: absolute;
+    top: 250px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+#image1{
+    height: 600px;
+    width: 600px;
+}
+.bar{
+    content: "";
+    background-color: black;
+    width: 200px;
+    height: 4px;
+    position: absolute;
+    right: 795px;
+    bottom: 350px;
+    border-radius: 15px;
+}
+.intro-t{
+    font-size: 70px;
+    position: absolute;
+    bottom: 270px;
+    right:290px;
+    width: 500px;
+}
+.hi{
+    font-size: 40px;
+    position: absolute;
+    bottom: 220px;
+    right: 740px;
+    font-style: italic;
+
+}
+ .Ama{
+    font-size: 120px;
+    position: absolute;
+    left: 850px;
+    bottom: 150px;
+    font-style: italic;
+ }  
+.intro{
+    font-size: 30px;
+    position: absolute;
+    left: 620px;
+    width: 950px;
+    top: 800px;
+}
